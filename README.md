@@ -27,10 +27,10 @@ make asm6502-dbg
 An artist was presenting their latest painting at a gallery's open-house event, when a famous art critic walked up, 
 and said:
 
-Critic: "May I give you some criticism?"
-Artist: "Sure thing."
-Critic: "It's useless."
-Artist: "I know, but you can give it to me anyway."
+> Critic: "May I give you some criticism?"
+> Artist: "Sure thing."
+> Critic: "It's useless."
+> Artist: "I know, but you can give it to me anyway."
 
 This is all to say that this project was mostly done as an exercise in systems programming and mucking around with 
 bitwise operations. 
