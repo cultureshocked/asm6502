@@ -29,8 +29,11 @@ and said:
 
 <blockquote>
 Critic: "May I give you some criticism?"
+  
 Artist: "Sure thing."
+
 Critic: "It's useless."
+
 Artist: "I know, but you can give it to me anyway."
 </blockquote>
 
